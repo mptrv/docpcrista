@@ -1,6 +1,8 @@
 #summary Informações gerais sobre o projeto "Documentários da Prática Cristã".
 #labels Featured,Phase-Design,Phase-Requirements
 
+= DOCUMENTÁRIOS DA PRÁTICA CRISTÃ =
+
 = Introdução =
 
 Esta página Wiki visa fornecer algumas informações gerais sobre o projeto "Documentários da Prática Cristã", dentre as quais, resumos do andamento do projeto e datas, horários e locais das próximas atividades. Mais detalhes estarão contidos nos documentos PDF na aba "Downloads" ou "Project Home".
@@ -9,3 +11,55 @@ Esta página Wiki visa fornecer algumas informações gerais sobre o projeto "Do
 = Objetivos =
 
 Elaborar documentários em vídeo, principalmente, e em versão escrita de atuações concretas cristãs, a fim de divulgar uma parte das muitas boas ações que existem e, assim, também estimular outras pessoas a buscarem e a vivenciarem tais práticas cristãs. Além disto, tal proposta permitirá aos atuantes na elaboração do documentário ter um contato mais próximo com seus irmãos e irmãs que precisam de ajuda, assim como fez Jesus Cristo.
+
+= Membros do Grupo =
+
+Abaixo, segue a relação das pessoas que já confirmaram sua participação no grupo. Também, cita-se qual a função que ela escolheu desenvolver. No documento PDF, encontra-se a relação classificada pelas funções.
+
+*Pessoas que já confirmaram sua participação no grupo e suas funções:*
+
+||_Nome_||_Função_||
+||Marcelo||Direção Geral||
+||Nathália||Filmagem||
+||Vítor||Edição de Vídeo||
+||Etiene||Roteiro e Redação||
+||Bruna||Produção - Decopagem||
+||Kelly||Apoio Técnico||
+||João||Filmagem e Fotografia||
+||Michel||Direção e Execução de Arte||
+||Francisco||Edição de Vídeo e Trilha Sonora||
+||Suellem||Reportagem||
+
+Abaixo, segue a relação das pessoas que ficaram de confirmar sua participação.
+
+*Pessoas a aguardar confirmação de participação:*
+
+ * Lucy
+ * Silvana
+ * Letícia
+ * Danilo
+ * Rodnei
+ * Andréia
+ * Júnior
+
+Abaixo, a relação de pessoas a fazer o convite para participarem do projeto.
+
+*Pessoas ainda a convidar para participar do projeto:*
+
+ * Liliana
+ * Chico
+ * Paula
+ * Bianca
+ * Alef
+ * Sônia (Leandro)
+ * Leandro (Sônia)
+ * Adélia
+ * Diego
+ * Paty
+ * Tatiana
+ * Vinícius (Mayara)
+ * Isabela
+ * Víctor (Isabela)
+ * Víctor (Neusa)
+ * Elias
+ * Janiere
