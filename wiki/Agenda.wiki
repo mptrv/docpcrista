@@ -8,7 +8,7 @@ A agenda, com datas, horários e locais estão contidas nesta página. Para info
 
 == Reunião Geral do Grupo ==
 
-||Data	||27-02-2010	||
+||Data	||27-02-2010 (sábado)	||
 ||Horário	||17h00	||
 ||Local	||Salão Paroquial -- Santo Antônio da Vila Alpina	||
 ||Participantes	||TODOS	||
