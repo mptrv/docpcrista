@@ -1,4 +1,4 @@
-#summary Informações gerais sobre o projeto "Documentários da Prática Cristã".
+﻿#summary Informações gerais sobre o projeto "Documentários da Prática Cristã".
 #labels Featured,Phase-Design,Phase-Requirements
 
 = DOCUMENTÁRIOS DA PRÁTICA CRISTÃ =
@@ -28,6 +28,7 @@ Abaixo, segue a relação das pessoas que já confirmaram sua participação no 
 ||Michel||Direção e Execução de Arte||
 ||Francisco||Edição de Vídeo e Trilha Sonora||
 ||Suellem||Reportagem||
+||Bianca||Roteiro e Redação||
 
 Abaixo, segue a relação das pessoas que ficaram de confirmar sua participação.
 
@@ -40,6 +41,9 @@ Abaixo, segue a relação das pessoas que ficaram de confirmar sua participaçã
  * Rodnei
  * Andréia
  * Júnior
+ * Isabela
+ * Alef
+ * Paty
 
 Abaixo, a relação de pessoas a fazer o convite para participarem do projeto.
 
@@ -48,16 +52,12 @@ Abaixo, a relação de pessoas a fazer o convite para participarem do projeto.
  * Liliana
  * Chico
  * Paula
- * Bianca
- * Alef
  * Sônia (Leandro)
  * Leandro (Sônia)
  * Adélia
  * Diego
- * Paty
  * Tatiana
  * Vinícius (Mayara)
- * Isabela
  * Víctor (Isabela)
  * Víctor (Neusa)
  * Elias
