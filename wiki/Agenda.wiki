@@ -1,7 +1,14 @@
-#summary Agenda do projeto.
+﻿#summary Agenda do projeto.
 
 = AGENDA =
 
 == Introdução ==
 
 A agenda, com datas, horários e locais estão contidas nesta página. Para informações gerais, consulte as [InformacoesGerais Informações Gerais].
+
+== Reunião Geral do Grupo ==
+
+||Data	||27-02-2010	||
+||Horário	||17h00	||
+||Local	||Salão Paroquial -- Santo Antônio da Vila Alpina	||
+||Participantes	||TODOS	||
