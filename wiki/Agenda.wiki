@@ -1,0 +1,7 @@
+#summary Agenda do projeto.
+
+= AGENDA =
+
+== Introdução ==
+
+A agenda, com datas, horários e locais estão contidas nesta página. Para informações gerais, consulte [InformacoesGerais label] InformacoesGerais.
