@@ -1,0 +1,11 @@
+#summary Informações gerais sobre o projeto "Documentários da Prática Cristã".
+#labels Featured,Phase-Design,Phase-Requirements
+
+= Introdução =
+
+Esta página Wiki visa fornecer algumas informações gerais sobre o projeto "Documentários da Prática Cristã", dentre as quais, resumos do andamento do projeto e datas, horários e locais das próximas atividades. Mais detalhes estarão contidos nos documentos PDF na aba "Downloads" ou "Project Home".
+
+
+= Objetivos =
+
+Elaborar documentários em vídeo, principalmente, e em versão escrita de atuações concretas cristãs, a fim de divulgar uma parte das muitas boas ações que existem e, assim, também estimular outras pessoas a buscarem e a vivenciarem tais práticas cristãs. Além disto, tal proposta permitirá aos atuantes na elaboração do documentário ter um contato mais próximo com seus irmãos e irmãs que precisam de ajuda, assim como fez Jesus Cristo.
