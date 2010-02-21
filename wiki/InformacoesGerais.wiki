@@ -13,9 +13,33 @@ Elaborar documentários em vídeo, principalmente, e em versão escrita de atua�
 
 = Membros do Grupo =
 
-Abaixo, segue a relação das pessoas que já confirmaram sua participação no grupo. Também, cita-se qual a função que ela escolheu desenvolver. No documento PDF, encontra-se a relação classificada pelas funções.
+Abaixo, segue a relação das pessoas que já confirmaram sua participação no grupo e sua função, classificada por função. Em seguida, a mesma lista, classificada por nome.
 
-*Pessoas que já confirmaram sua participação no grupo e suas funções:*
+*Membros do grupo e suas funções, classificados por função:*
+
+||*FUNÇÃO*||*PESSOAS*||
+||*_Direção_*||
+||Diretor Geral|| Marcelo||
+||*_Produção_*||
+||Produtora Geral|| Andréia||
+||Produtora de Articulação|| Lucy||
+||Produtora de Decopagem|| Bruna||
+||Roteiristas/Redatores|| Etiene, Bianca||
+||Câmeras (Filmagem)|| Nathália, João||
+||Fotógrafos|| João, (Víctor)||
+||Repórteres|| Suellem, Letícia, Júnior, Paty||
+||Apoio Técnico de Produção|| Kelly||
+||*_Edição_*||
+||Diretor e Executor de Arte|| Michel||
+||Editor de Vídeo|| Vítor, Francisco, Alef||
+||Editor de Áudio|| Francisco||
+||Editor de Trilha Sonora|| Francisco||
+||Editor de Imagem|| Rodrigo||
+||Locutor|| Rodrigo||
+||*_Divulgação_*||
+||Divulgadores|| Mônica, Michael, Cecília||
+
+*Membros do grupo e suas funções, classificados por nome:*
 
 ||_Nome_||_Função_||
 ||Marcelo||Direção Geral||
@@ -38,6 +62,7 @@ Abaixo, segue a relação das pessoas que já confirmaram sua participação no 
 ||Paty||Repórter||
 ||Mônica||Divulgação||
 ||Michael||Divulgação||
+||Cecília||Divulgação||
 
 Abaixo, segue a relação das pessoas que ficaram de confirmar sua participação.
 
@@ -47,6 +72,7 @@ Abaixo, segue a relação das pessoas que ficaram de confirmar sua participaçã
  * Danilo
  * Rodnei
  * Isabela
+ * Víctor (Neusa)
 
 Abaixo, a relação de pessoas a fazer o convite para participarem do projeto.
 
@@ -62,7 +88,6 @@ Abaixo, a relação de pessoas a fazer o convite para participarem do projeto.
  * Tatiana
  * Vinícius (Mayara)
  * Víctor (Isabela)
- * Víctor (Neusa)
  * Elias
  * Janiere
 
