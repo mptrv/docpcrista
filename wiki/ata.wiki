@@ -1,4 +1,5 @@
-﻿= Ata de Reunião =
+﻿#labels Featured,Ata
+= Ata de Reunião =
 
 Aqui, está listada a ata mais recente, em forma mais simplificada. As atas em texto oficial encontram-se na aba `Downloads', em arquivo PDF. _Ressalta-se que são os textos da ata oficial, em PDF, que devem ser analisados para aprovação._
 
