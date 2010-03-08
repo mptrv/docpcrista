@@ -21,13 +21,13 @@ Abaixo, segue a relação das pessoas que já confirmaram sua participação no 
 ||*_Direção_*||
 ||Diretor Geral|| Marcelo||
 ||*_Produção_*||
-||Produtora Geral|| Andréia||
-||Produtora de Articulação|| Lucy||
+||Produtores Gerais|| Andréia, Júnior, Kelly||
+||Produtores de Articulação|| Lucy, Marcelo||
 ||Produtora de Decopagem|| Bruna||
 ||Roteiristas/Redatores|| Etiene||
 ||Câmeras (Filmagem)|| Nathália, João||
 ||Fotógrafos|| João, (Víctor)||
-||Repórteres|| Suellem, Letícia, Júnior, Paty||
+||Repórteres|| Suellen, Letícia, Júnior, Paty||
 ||Apoio Técnico de Produção|| Kelly||
 ||*_Edição_*||
 ||Diretor e Executor de Arte|| Michel||
@@ -42,22 +42,22 @@ Abaixo, segue a relação das pessoas que já confirmaram sua participação no 
 *Membros do grupo e suas funções, classificados por nome:*
 
 ||_Nome_||_Função_||
-||Marcelo||Direção Geral||
+||Marcelo||Direção Geral, Produção de Articulação||
 ||Nathália||Filmagem||
 ||Vítor||Edição de Vídeo||
 ||Etiene||Roteiro e Redação||
-||Bruna||Produção - Decopagem||
-||Kelly||Apoio Técnico||
+||Bruna||Produção de Decopagem||
+||Kelly||Apoio Técnico e Produção Geral||
 ||João||Filmagem e Fotografia||
 ||Michel||Direção e Execução de Arte||
 ||Francisco||Edição de Vídeo e Trilha Sonora||
-||Suellem||Reportagem||
+||Suellen||Reportagem||
 ||Rodrigo||Editor de fotos e Locutor||
-||Lucy||Produção - Articulação||
+||Lucy||Produção de Articulação||
 ||Letícia||Reportagem||
 ||Andréia||Produção Geral||
-||Júnior||Repórter||
-||Alef||Edição de vídeo||
+||Júnior||Produção Geral||
+||Alef||Edição de Vídeo||
 ||Paty||Repórter||
 ||Mônica||Divulgação||
 ||Michael||Divulgação||
