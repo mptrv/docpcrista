@@ -52,6 +52,12 @@ Documentários da Prática Cristã
 \end_inset
 
 --- Material de Referência ---
+\begin_inset Newline newline
+\end_inset
+
+
+\size small
+v 0.0.4
 \end_layout
 
 \begin_layout Section
@@ -90,6 +96,8 @@ Referência do Evangelho
 \end_layout
 
 \begin_layout Standard
+
+\emph on
 Vocês são a luz do mundo.
  Não pode ficar escondida uma cidade construída sobre um monte.
  Ninguém acende uma lâmpada para colocá-la debaixo de uma vasilha, e sim
@@ -200,7 +208,7 @@ São os responsáveis pela filmagem, iluminação, sonoplastia e fotografia
 \end_layout
 
 \begin_layout Subsubsection
-Repórteres
+Repórteres/Entrevistadores
 \end_layout
 
 \begin_layout Standard
@@ -435,7 +443,7 @@ Produção
 \begin_inset Text
 
 \begin_layout Plain Layout
-Produtora Geral
+Produtores Gerais
 \end_layout
 
 \end_inset
@@ -444,7 +452,7 @@ Produtora Geral
 \begin_inset Text
 
 \begin_layout Plain Layout
-Andréia
+Andréia, Júnior
 \end_layout
 
 \end_inset
@@ -504,7 +512,7 @@ Roteiristas
 \begin_inset Text
 
 \begin_layout Plain Layout
-Etiene, Bianca
+Etiene, Pompeu
 \end_layout
 
 \end_inset
@@ -555,7 +563,7 @@ João, (Víctor)
 \begin_inset Text
 
 \begin_layout Plain Layout
-Repórteres
+Repórteres/Entrevistadores
 \end_layout
 
 \end_inset
@@ -564,7 +572,7 @@ Repórteres
 \begin_inset Text
 
 \begin_layout Plain Layout
-Suellen, Letícia, Júnior, Paty
+Suellen, Letícia, Paty
 \end_layout
 
 \end_inset
@@ -618,7 +626,7 @@ Edição
 \begin_inset Text
 
 \begin_layout Plain Layout
-Redatoras
+Redatores
 \end_layout
 
 \end_inset
@@ -627,7 +635,7 @@ Redatoras
 \begin_inset Text
 
 \begin_layout Plain Layout
-Etiene, Bianca
+Etiene, Pompeu
 \end_layout
 
 \end_inset
@@ -839,6 +847,10 @@ Relação de entidades para gerar documentário.
 
 \begin_layout Enumerate
 Arsenal da Esperança
+\end_layout
+
+\begin_layout Enumerate
+Fazenda da Esperança
 \end_layout
 
 \begin_layout Enumerate
