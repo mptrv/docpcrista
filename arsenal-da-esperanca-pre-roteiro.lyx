@@ -57,13 +57,78 @@ Arsenal da Esperança
 
 
 \size small
-v 0.0.0
+v 0.0.1
 \end_layout
 
 \begin_layout Standard
 Pré-roteiro sobre o Arsenal da Esperança.
  São salientados alguns tópicos observados durante a visita e traços orientativo
 s para o roteiro de informações, propriamente dito, e também o roteiro técnico.
+\end_layout
+
+\begin_layout Section
+Estilo do Documentário e Tópicos de Orientação de Desenvolvimento
+\begin_inset Newline newline
+\end_inset
+
+
+\size small
+(de reunião)
+\end_layout
+
+\begin_layout Itemize
+Não conter um 
+\begin_inset Quotes eld
+\end_inset
+
+repórter
+\begin_inset Quotes erd
+\end_inset
+
+, propriamente dito, que apareça.
+\end_layout
+
+\begin_layout Enumerate
+Introdução (breve) de como surgiu o Arsenal da Esperança.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Os fundadores;
+\end_layout
+
+\begin_layout Enumerate
+ano;
+\end_layout
+
+\begin_layout Enumerate
+principal objetivo da casa.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Tomada geral do espaço e das instalações.
+\end_layout
+
+\begin_layout Enumerate
+Retrato dos trabalhos realizados e suas espiritualidades.
+\end_layout
+
+\begin_layout Enumerate
+Depoimentos dos acolhidos.
+\end_layout
+
+\begin_layout Enumerate
+
+\emph on
+\begin_inset Quotes eld
+\end_inset
+
+Nem tudo está pronto: quanto mais boas ações, melhor.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section
