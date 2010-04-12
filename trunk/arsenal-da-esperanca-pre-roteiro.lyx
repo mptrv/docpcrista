@@ -57,7 +57,7 @@ Arsenal da Esperança
 
 
 \size small
-v 0.0.1
+v 0.0.2
 \end_layout
 
 \begin_layout Standard
@@ -500,6 +500,280 @@ bazar;
 
 \begin_layout Itemize
 jardim.
+\end_layout
+
+\begin_layout Section
+Panorama Geral do Roteiro 
+\begin_inset Quotes eld
+\end_inset
+
+da Informação
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+O texto que segue nesta seção é uma base para o roteiro oficial.
+\end_layout
+
+\begin_layout Paragraph
+Legenda:
+\end_layout
+
+\begin_layout Standard
+\begin_inset FormulaMacro
+\newcommand{\cm}{\textbf{\texttt{C}\,\,}}
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset FormulaMacro
+\newcommand{\dm}{\textbf{\texttt{10m\,\,}}}
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset FormulaMacro
+\newcommand{\tm}{\textbf{\texttt{30m\,\,}}}
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Formula $\cm$
+\end_inset
+
+: comum à versão de 30 e 10 minutos do documentário;
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Formula $\dm$
+\end_inset
+
+: para a versão de 10 minutos;
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Formula $\tm$
+\end_inset
+
+: para a versão de 30 minutos.
+\end_layout
+
+\begin_layout Subsection
+A História da Origem do Arsenal da Esperança
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\cm$
+\end_inset
+
+O 
+\emph on
+<nome do fundador>
+\emph default
+ no ano de \SpecialChar \ldots{}
+ fundou o Arsenal da Esperança com o 
+\emph on
+objetivo
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Comfirmar e detalhar os objetivos.
+\end_layout
+
+\end_inset
+
+
+\emph default
+ de combater a fome no Brasil, inspirado no Arsenal da Paz fundado por Ernesto
+ e Maria em Turin, na Itália.
+ 
+\emph on
+{Filmagem da capela, jardim, espaços externos.}
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\tm$
+\end_inset
+
+
+\emph on
+{Continuação da história.}
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\tm$
+\end_inset
+
+Juntamente com outros jovens, tinham uma preocupação com a fome no mundo,
+ mas pretendiam entender o problema agindo de forma lógica e não emocional
+ \SpecialChar \ldots{}
+ \SpecialChar \ldots{}
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\cm$
+\end_inset
+
+
+\emph on
+{Sem perguntas, somente com imagem do lugar/ da casa (externo) e do fundador.}
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\tm$
+\end_inset
+
+
+\emph on
+{Imagens de como era na Itália.}
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\cm$
+\end_inset
+
+Atualmente, o Arsenal da Esperança conta com a administração de 4 irmãos
+ religiosos, pertencentes à Fraternidade da Paz, na Itália, sendo um deles
+ o presidente.
+\end_layout
+
+\begin_layout Subsection
+Perguntas aos Coordenadores
+\end_layout
+
+\begin_layout Enumerate
+Qual o principal objetivo da casa?
+\end_layout
+
+\begin_layout Enumerate
+Como vocês fazem para atingir tal objetivo?
+\end_layout
+
+\begin_layout Enumerate
+Como é a chegada de um novo acolhido?
+\end_layout
+
+\begin_layout Enumerate
+Como uma pessoa se torna um acolhido?
+\end_layout
+
+\begin_layout Enumerate
+Como vocês suprem as necessidades básicas do ser humano quanto aos acolhidos?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Refeitório;
+\end_layout
+
+\begin_layout Enumerate
+dormitórios;
+\end_layout
+
+\begin_layout Enumerate
+lavanderia.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+{Lugares e funcionamentos.}
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Como vocês promovem a dignificação do acolhido?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Biblioteca;
+\end_layout
+
+\begin_layout Enumerate
+bazar
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Como compram?
+\end_layout
+
+\begin_layout Enumerate
+O que é o AR$?
+\end_layout
+
+\begin_layout Enumerate
+Como adquirir o AR$?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Local da troca dos recicláveis;
+\end_layout
+
+\begin_layout Enumerate
+galpão de reciclagem.
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Enumerate
+recicláveis;
+\end_layout
+
+\begin_layout Enumerate
+jardim;
+\end_layout
+
+\begin_layout Enumerate
+quadras;
+\end_layout
+
+\begin_layout Enumerate
+salas de aula;
+\end_layout
+
+\begin_layout Enumerate
+salas do projeto artístico.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+O que vocês oferecem para a qualificação profissional dos acolhidos?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Oficina de construção civil;
+\end_layout
+
+\begin_layout Enumerate
+oficina de panificação.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Quantas pessoas são acolhidas diariamente?
+\end_layout
+
+\begin_layout Enumerate
+Qual o custo médio mensal?
+\end_layout
+
+\begin_layout Enumerate
+Há voluntários? Quantos? O que fazem?
 \end_layout
 
 \end_body
