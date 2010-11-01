@@ -1,9 +1,13 @@
-#summary Descrição da idéia de criação de um Grupo de Formentação Cristã.
+#summary Descrição da idéia de criação de um Grupo de Fomentação Cristã.
 #labels Phase-Requirements
 
-= GRUPO DE FORMENTAÇÃO CRISTÃ =
+= GRUPO DE FOMENTAÇÃO CRISTÃ =
 
-Esta página contém dados com a descrição da idéia de criação de um Grupo de Formentação Cristã.
+Esta página contém dados com a descrição da idéia de criação de um Grupo de Fomentação Cristã.
+
+== Objetivo ==
+
+Difundir, instigar, trabalhar a espiritualidade cristã em âmbito individual, comunitário e social, convidando às atitudes práticas decorrentes de tal espiritualidade.
 
 == Proposta de sua Dinâmina ==
 
