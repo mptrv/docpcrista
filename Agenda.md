@@ -1,0 +1,46 @@
+﻿#summary Agenda do projeto.
+#labels Featured,Phase-Implementation
+
+# AGENDA #
+
+## Introdução ##
+
+A agenda, com datas, horários e locais estão contidas nesta página. Para informações gerais, consulte as [Informações Gerais](InformacoesGerais.md).
+
+## Reunião de Roteiristas e Produtora de Decopagem ##
+
+|Data	|13-04-2010 (terça-feira)	|
+|:----|:------------------------|
+|Horário |18h00                    |
+|Duração |02h00                    |
+|Local	| Casa da Etiene          |
+|Orientação	| Bruna                   |
+|Participantes	| ROTEIRISTAS, PRODUTORA DE DECOPAGEM|
+
+
+## Próxima Visita ao Arsenal da Esperança ##
+_Nesta próxima visita, pretende-se fazer filmagens e fotografias._
+
+|Data	|**18-04-2010 (domingo)**	|
+|:----|:------------------------|
+|Horário de encontro|**09h00**	               |
+|Local de encontro| Em frente à igreja      |
+|Horário de trabalho | 10h00                   |
+|Duração estimada |08h00                    |
+|Local	| Arsenal da Esperança    |
+|Participantes	|TODOS                    |
+
+
+## Outra Visita ao Arsenal da Esperança ##
+_Nesta outra visita, pretende-se fazer as entrevistas._
+
+**Ainda a confirmar.**
+
+|Data	|25-04-2010 (domingo)	|
+|:----|:--------------------|
+|Horário de encontro|09h00	               |
+|Local de encontro| Em frente à igreja  |
+|Horário de trabalho | 10h00               |
+|Duração estimada |08h00                |
+|Local	| Arsenal da Esperança|
+|Participantes	|TODOS                |

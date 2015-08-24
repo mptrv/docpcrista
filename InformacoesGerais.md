@@ -1,0 +1,97 @@
+﻿#summary Informações gerais sobre o projeto "Documentários da Prática Cristã".
+#labels Featured,Phase-Design,Phase-Requirements
+
+# DOCUMENTÁRIOS DA PRÁTICA CRISTÃ #
+
+# Introdução #
+
+Esta página Wiki visa fornecer algumas informações gerais sobre o projeto "Documentários da Prática Cristã". Dentre tais, cita-se a publicação de resumos do andamento do projeto e datas, horários e locais das próximas atividades. Mais detalhes estarão contidos nos documentos PDF na aba "Downloads" ou "Project Home".
+
+# Objetivos #
+
+Elaborar documentários em vídeo, principalmente, e em versão escrita de atuações concretas cristãs, a fim de divulgar uma parte das muitas boas ações que existem e, assim, também estimular outras pessoas a buscarem e a vivenciarem tais práticas cristãs. Além disto, tal proposta permitirá aos atuantes na elaboração do documentário ter um contato mais próximo com seus irmãos e irmãs que precisam de ajuda, assim como fez Jesus Cristo.
+
+# Membros do Grupo #
+
+Abaixo, segue a relação das pessoas que já confirmaram sua participação no grupo e sua função, classificada por função. Em seguida, a mesma lista, classificada por nome.
+
+**Membros do grupo e suas funções, classificados por função:**
+
+|**FUNÇÃO**|**PESSOAS**|
+|:---------|:----------|
+|**_Direção_**|
+|Diretor Geral| Marcelo   |
+|**_Produção_**|
+|Produtores Gerais| Andréia, Júnior, Kelly|
+|Produtores de Articulação| Lucy, Marcelo|
+|Produtora de Decopagem| Bruna     |
+|Roteiristas/Redatores| Etiene    |
+|Câmeras (Filmagem)| Nathália, João|
+|Fotógrafos| João, (Víctor)|
+|Repórteres| Suellen, Letícia, Júnior, Paty|
+|Apoio Técnico de Produção| Kelly     |
+|**_Edição_**|
+|Diretor e Executor de Arte| Michel    |
+|Editor de Vídeo| Vítor, Francisco, Alef|
+|Editor de Áudio| Francisco |
+|Editor de Trilha Sonora| Francisco |
+|Editor de Imagem| Rodrigo   |
+|Locutor   | Rodrigo   |
+|**_Divulgação_**|
+|Divulgadores| Mônica, Michael, Cecília|
+
+**Membros do grupo e suas funções, classificados por nome:**
+
+|_Nome_|_Função_|
+|:-----|:-------|
+|Marcelo|Direção Geral, Produção de Articulação|
+|Nathália|Filmagem|
+|Vítor |Edição de Vídeo|
+|Etiene|Roteiro e Redação|
+|Bruna |Produção de Decopagem|
+|Kelly |Apoio Técnico e Produção Geral|
+|João  |Filmagem e Fotografia|
+|Michel|Direção e Execução de Arte|
+|Francisco|Edição de Vídeo e Trilha Sonora|
+|Suellen|Reportagem|
+|Rodrigo|Editor de fotos e Locutor|
+|Lucy  |Produção de Articulação|
+|Letícia|Reportagem|
+|Andréia|Produção Geral|
+|Júnior|Produção Geral|
+|Alef  |Edição de Vídeo|
+|Paty  |Repórter|
+|Mônica|Divulgação|
+|Michael|Divulgação|
+|Cecília|Divulgação|
+
+Abaixo, segue a relação das pessoas que ficaram de confirmar sua participação.
+
+**Pessoas a aguardar confirmação de participação:**
+
+  * Silvana
+  * Danilo
+  * Rodnei
+  * Isabela
+  * Víctor (Neusa)
+
+Abaixo, a relação de pessoas a fazer o convite para participarem do projeto.
+
+**Pessoas ainda a convidar para participar do projeto:**
+
+  * Liliana
+  * Chico
+  * Paula
+  * Sônia (Leandro)
+  * Leandro (Sônia)
+  * Adélia
+  * Diego
+  * Tatiana
+  * Vinícius (Mayara)
+  * Víctor (Isabela)
+  * Elias
+  * Janiere
+
+# _AGENDA_ #
+
+Veja em [Agenda](Agenda.md).

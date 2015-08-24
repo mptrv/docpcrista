@@ -1,0 +1,23 @@
+# GRUPO DE FOMENTAÇÃO CRISTÃ #
+
+Esta página contém dados com a descrição da idéia de criação de um Grupo de Fomentação Cristã.
+
+## Objetivo ##
+
+Difundir, instigar, trabalhar a espiritualidade cristã em âmbito individual, comunitário e social, convidando às atitudes práticas decorrentes de tal espiritualidade.
+
+## Proposta de sua Dinâmina ##
+
+Reflexões, discussões, orações, amadurecimentos no âmbito espiritual-ideológico com proposições práticas para vivência mais profunda do Evangelho na vida pessoal, comunitária e social.
+
+## Elementos-Chave ##
+
+  * Amarás ao Senhor teu Deus e ao teu próximo como a ti mesmo.
+  * Viver para a comunhão e o bem para o outro e não cerrar-se em si.
+  * Construir o Reino de Deus onde se encontrar.
+  * Viver e levar a Paz onde estiver.
+  * Em outras palavras, viver e levar a Comunhão aos próximos.
+
+## Nota ##
+
+Neste sentido, o projeto de _Documentários da Prática Cristã_ estaria contido dentro da proposta de tal grupo.
